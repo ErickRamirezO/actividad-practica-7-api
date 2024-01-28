@@ -1,0 +1,102 @@
+/*Cuerpo*/
+body{
+    background: #360033;
+    background: -webkit-linear-gradient(to right, #0b8793, #360033);
+    background: linear-gradient(to right, #0b8793, #360033);
+    height: 100%;
+}
+
+.formartoLyris,
+.musicauwu {
+    color: black;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.934);
+    text-align: center;
+}
+.formartoLyris{
+    margin-top: 100px;
+}
+
+.content-wrapper {
+    display: flex;
+}
+
+.letra {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.video {
+    flex: 1;
+}
+
+/*Navar*/
+.logo {
+    width: 10%;
+
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.425);
+    color: #fff;
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    
+    
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+/*letra musica*/
+.letramusica {
+    color: #fff;
+}
+
+
+/*estilo youtube*/
+
+.youtube-result h3 {
+    color: #fff;
+}
+
+.youtube-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.youtube-result {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.youtube-result h3 {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.youtube-result iframe {
+    background-color: #5e5c5c52;
+}
