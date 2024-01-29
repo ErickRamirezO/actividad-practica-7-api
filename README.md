@@ -15,6 +15,7 @@ Instalar todas las dependencias desde la carpeta raiz del proyecto:
 ````bash
 npm install
 ```
+
 Correr el servidor de desarrollo
 ````bash
 npm run dev
