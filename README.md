@@ -12,11 +12,11 @@ Esta app usa la api de Youtube y de lyrics.ovh para facilitar la busqueda de let
 
 ### Instrucciones
 Instalar todas las dependencias desde la carpeta raiz del proyecto:
-````bash
+```bash
 npm install
 ```
 
 Correr el servidor de desarrollo
-````bash
+```bash
 npm run dev
 ```
