@@ -1,7 +1,7 @@
 # Actividad Practica 7 API
 Esta app usa la api de Youtube y de lyrics.ovh para facilitar la busqueda de letras y videos de canciones.
 
-###Integrantes - Grupo 1:
+### Integrantes - Grupo 1:
 - Marley Morales
 - Steven Pozo
 - Erick Ramírez
